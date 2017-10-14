@@ -19,4 +19,5 @@ Search
 
 
 	Learn more here: http://ai.berkeley.edu/search.html
-	
+	Check out Questions 1 and 2. They give further advice and clear things up a bit. 
+
