@@ -20,4 +20,5 @@ Search
 
 	Learn more here: http://ai.berkeley.edu/search.html
 	Check out Questions 1 and 2. They give further advice and clear things up a bit. 
-
+```
+Introduction slides to Uniform Cost Search [here](https://docs.google.com/presentation/d/1LS2_Twa4h0xNbTRw2fg5kAEaHMi79CjRidCXKhlYfx8/edit?usp=sharing)
